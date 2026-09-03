@@ -3,8 +3,4 @@ resources:
     sales_job:
       name: sales_job
 
-      tasks:
-        - task_key: run_sales_notebook
-
-          notebook_task:
-            notebook_path: ../src/sale_notebook.ipynb
+     
